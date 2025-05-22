@@ -14,9 +14,6 @@ system-security-testing-using-trojans/
 
 ---
 
-### 📄 README.md (GitHub Format)
-
-````markdown
 # 🛡️ System Security Testing Using Trojans
 
 This project simulates a basic cybersecurity scenario demonstrating how a Trojan horse can be used to compromise a system, and more importantly, how such attacks can be detected and mitigated.
