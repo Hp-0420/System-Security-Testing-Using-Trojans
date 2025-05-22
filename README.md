@@ -1,7 +1,5 @@
 ## System Security Testing Using Trojans.
 
----
-
 ### 📁 Project Structure (Suggestion)
 
 ```
