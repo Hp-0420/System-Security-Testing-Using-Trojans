@@ -1,4 +1,4 @@
-##**System Security Testing Using Trojans**.
+## System Security Testing Using Trojans.
 
 ---
 
