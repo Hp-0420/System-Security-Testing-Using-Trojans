@@ -63,7 +63,6 @@ This project simulates a basic cybersecurity scenario demonstrating how a Trojan
 1. **Start the server** (attacker):
    ```bash
    python trojan_server.py
-````
 
 2. **Run the client** (simulated victim):
 
