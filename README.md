@@ -7,10 +7,7 @@ system-security-testing-using-trojans/
 │
 ├── trojan_server.py              # Simulated attacker-side server
 ├── trojan_client.py              # Simulated victim-side Trojan
-├── README.md                     # Full GitHub README
-├── LICENSE                       # (Optional) Add open-source license
-└── demo.gif                      # (Optional) Record a simulated demo
-```
+└── README.md                     # Full GitHub README
 
 ---
 
